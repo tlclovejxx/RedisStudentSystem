@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+body{
+	font-size: 19px;
+}
+form{
+	width:400px;
+	margin:150px auto;
+	border:1px solid #FFCCCC;
+}
+form h1{
+	font-size: 25px;
+	text-align:center;
+	margin: 0;
+	border: 1px solid #FFCCCC;
+	background-color:#F194DF;
+}
+
+form p{
+	margin: 0;
+	text-align: center;
+	border: 1px solid #FFCCCC;
+}
+form div{
+	text-align: center;
+	margin: 0;
+	border: 1px solid #FFCCCC;
+}
+form input{
+	border:1px solid #FFCCCC;
+	width:170px;
+}
+.p0,.p2,.p4{
+	background: #fff8dc;
+}
+.p1,.p3,.giveUp{
+	background: #f0f0f0;
+}
+div{
+	background: #f0f0f0;
+}
+.id{
+	background: #f0f0f0;
+}

@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+body{
+	style:font-size: 19px;
+}
+.tablediv{
+	text-align: center;
+	margin:auto;
+}
+table{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	border: 1px solid #FFCCCC;
+	width: 80%;
+	margin:auto;
+}
+tr{
+	text-align: "center";
+	margin: auto;
+}
+td{
+	text-align: "center";
+	border: 1px solid #FFCCCC;
+	margin: auto;
+}
+.row1{
+	background-color: #fff8dc;
+}
+.row2{
+	background-color: #f0f0f0;
+}
+.yesback{
+	background-color: #adadad;
+}
